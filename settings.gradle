@@ -1,0 +1,3 @@
+rootProject.name='NDKDemo2'
+include ':app'
+include ':ccalljava'
